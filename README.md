@@ -1,2 +1,2 @@
 # hello-world
-Getting close with github
+Getting close with github.
